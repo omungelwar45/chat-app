@@ -13,7 +13,7 @@
 - `npm run preview` - Preview production build
 - `npm run lint` - Lint code
 
-## Contributing
+## Contributin
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)

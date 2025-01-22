@@ -1,7 +1,13 @@
 
 \![image](https://github.com/user-attachments/assets/7dc0cf88-1b43-4ff1-be9c-58df501995e1)
 
-![image](https://github.com/user-attachments/assets/7dc0cf88-1b43-4ff1-be9c-58df501995e1)
+![image](https://github.com/user-attachments/assets/7dc0cf88-1b43-4ff1-be9c-58df501995e1)\
+## GitHub Stats:
+![Omung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omungelwar45&show_icons=true&theme=dark)
+
+## Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omungelwar45&layout=compact&theme=dark)
+
 
 
 
